@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">devcolibri_l7_SendDataToNextActivity</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_you_login_name">Enter you login name</string>
+    <string name="enter_you_password">Enter you password</string>
+    <string name="password_activity_2">password:</string>
+    <string name="btn_back_text">Back</string>
+    <string name="enter_you_message">Enter you message</string>
+</resources>
